@@ -1,6 +1,7 @@
 #ifndef __ENCODER_TYPES_H__
 #define __ENCODER_TYPES_H__
 
+#include <cstdint>
 #include <functional>
 
 namespace EncoderApi
